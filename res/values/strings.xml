@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="app_name">CalcPergunta</string>
+    <string name="main_text">Qual o resultado?</string>
+    <string name="main_x">x</string>
+    <string name="main_igual">=</string>
+    <string name="main_first_number">1</string>
+    <string name="main_second_nunber">2</string>
+    <string name="main_bt_conferir">conferir</string>
+    <string name="main_bt_resultado">resultado</string>
+
+</resources>
